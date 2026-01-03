@@ -1,11 +1,12 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/marugrig@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:marugrig@gmail.com) 
-[![Portfolio]([https://dobjalo.github.io/](https://img.shields.io/badge/Portfolio-D14836?logo=gmail&logoColor=white))](https://dobjalo.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?logo=gmail&logoColor=white)](https://dobjalo.github.io/)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DobJalo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DobJalo&theme=dark&hide_border=false)<br/>
