@@ -2,6 +2,7 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/marugrig@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:marugrig@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-D14836?logo=googlechrome&logoColor=white)](https://dobjalo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariia-grigoreva-b68389369/)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
