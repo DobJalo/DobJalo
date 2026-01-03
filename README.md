@@ -8,9 +8,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DobJalo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DobJalo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DobJalo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DobJalo&theme=dark)
+![GitHub streak stats](https://nirzak-streak-stats.vercel.app/?user=DobJalo&theme=dark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DobJalo&theme=dark&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DobJalo&icon=5&color=4)](https://visitcount.itsvg.in)
